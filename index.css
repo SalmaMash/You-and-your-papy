@@ -72,32 +72,10 @@ button {
 
 
 
-
-
-header {
-
-/* background: url(stacked-waves-haikei.png) no-repeat;
-    background-size: cover;
-    background-position: center; */
-   width: 100%;
-  display: flex;
-    justify-content: space-between;
-  align-items: center;
-padding-top: 20px; 
-padding-bottom: 6px;
-  color: black;
- 
- 
-
-}
-
 .nav a {
     text-decoration: none;
     padding-right: 100px;
 color: rgb(0, 0, 0);
-
-
-
 font-weight: bold;
 }
 .nav a:hover {
@@ -143,7 +121,7 @@ background-attachment: fixed;
 padding-top: 12px;
     width: 100%;
     min-height: 150vh;
-    height: 12rem;
+    height: 13rem;
     background: url(back1.png) no-repeat;
     background-size: cover;
     background-position: center;
